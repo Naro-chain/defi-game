@@ -1,8 +1,3 @@
-# MALICIOUS OBFUSCATED CODE
-
-`server/routes/paymentRoute.js`
-
-
 # MUNITY Ecosystem
 
 Welcome to the vibrant Munity game ecosystem, where three distinct titles intertwine seamlessly, powered by the $MUNITY token and fueled by your choices! Get ready to explore the interconnected worlds of Stutengarden, MetaHorse Unity, and M-Deeds, each offering unique gameplay and contributing to a rich, shared experience.
